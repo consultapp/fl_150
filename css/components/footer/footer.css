@@ -1,0 +1,15 @@
+.footer {
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 26px 0 26px 0;
+}
+.footer__text {
+  color: #fefefe;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
